@@ -1,0 +1,5 @@
+C:\Users\Facundo\Documents\NET\FacturacionRaul\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\FacturacionRaul\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facundo\Documents\NET\FacturacionRaul\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\FacturacionRaul\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\FacturacionRaul\Entidades\obj\Debug\Entidades.pdb
